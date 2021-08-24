@@ -1,0 +1,23 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "105.从前序与中序遍历序列构造二叉树.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.1",
+    "http-proxy-middleware": "^2.0.1",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-json": "^2.0.2",
+    "koa-router": "^10.0.0",
+    "koa-static": "^5.0.0",
+    "koa2-cors": "^2.0.6",
+    "mysql": "^2.18.1"
+  }
+}
